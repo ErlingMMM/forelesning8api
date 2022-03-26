@@ -5,7 +5,7 @@ import { BrowserRouter, Link, Route, Routes } from "react-router-dom";
 function FrontPage() {
   return (
     <div>
-      <h1>Front Page</h1>
+      <h1>Front Page new</h1>
       <div>
         <Link to="/login">Login</Link>
       </div>
