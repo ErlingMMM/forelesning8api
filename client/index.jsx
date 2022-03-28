@@ -33,7 +33,7 @@ function Login() {
     const parameters = {
       response_type: "token",
       client_id:
-        "1095582733852-smqnbrhcoiasjjg8q28u0g1k3nu997b0.apps.googleusercontent.com",
+        "513637494832-mggt2f2q9pposch6k9cvsjfeu2huorvj.apps.googleusercontent.com",
       scope: "email profile",
       redirect_uri: window.location.origin + "/login/callback",
     };
